@@ -1,0 +1,6 @@
+{
+  "name": "AetherTwin Industrial Digital Twin Platform",
+  "description": "Production-style Industrial Digital Twin platform simulating factory assets, live MQTT/Kafka telemetry pipelines, deterministic health modeling, anomaly detection, incident management, chaos engineering, and MCP/RAG-grounded AI operational diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
